@@ -1,0 +1,15 @@
+/Back-AMP/nbproject/private/
+/Back-AMP/node_modules
+/Back-AMP/public/hot
+/Back-AMP/public/storage
+/Back-AMP/storage/*.key
+/Back-AMP/vendor
+/Back-AMP/.env
+/Back-AMP/.env.backup
+/Back-AMP/.phpunit.result.cache
+/Back-AMP/Homestead.json
+/Back-AMP/Homestead.yaml
+/Back-AMP/npm-debug.log
+/Back-AMP/yarn-error.log
+/Back-AMP/.idea
+/Back-AMP/.vscode
